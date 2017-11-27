@@ -7,12 +7,6 @@
     3.      实现每按一次回车显示一个段子的发布时间，发布人，段子内容，点赞数。
 
 
-
-
-        
-## 参考链接：
-    ①http://cuiqingcai.com/990.html
-    ②https://github.com/hhzzer/python/blob/master/qiubai1.0.py
         
 ## 改进：
 
