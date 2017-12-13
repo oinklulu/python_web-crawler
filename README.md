@@ -35,3 +35,8 @@
 
 	python2爬虫实战——贴吧帖子爬取
 	taobaogirls_01.py	(urllib、urllib2、re)
+
+> **BSBDJ（1 Types）**
+
+	百思不得姐网站视频爬取程序
+	BSBDJ_01.py	(urllib(urlretrieve)、urllib2、re)
