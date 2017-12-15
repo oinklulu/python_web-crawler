@@ -1,6 +1,6 @@
 # python_web-crawler
 	
-> **目前并无日常更新博客，日常笔记心得总结在网易云笔记中，后续考虑将笔记内容及学习心得总结于简书中。**
+> **个人简书地址：http://www.jianshu.com/u/c0d2d4bcfe9b**
 
 
  **python爬虫实战项目导航** 
