@@ -40,3 +40,9 @@
 
 	百思不得姐网站视频爬取程序
 	BSBDJ_01.py	(urllib(urlretrieve)、urllib2、re)
+
+> **login（1 Types）**
+
+	模拟登陆程序
+	login_01.py	（requests,BeautifulSoup(bs4)、urllib、re）
+
