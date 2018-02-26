@@ -46,3 +46,7 @@
 	模拟登陆程序
 	login_01.py	（requests,BeautifulSoup(bs4)、urllib、re）
 
+> **Scrapy_top250（1 Types）**
+
+	Scrapy爬取豆瓣电影top250
+	（requests,BeautifulSoup(bs4)、urllib、re）
