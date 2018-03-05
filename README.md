@@ -50,3 +50,8 @@
 
 	Scrapy爬取豆瓣电影top250
 	（requests,BeautifulSoup(bs4)、urllib、re）
+
+> **view（1 Types）**
+> 
+	刷浏览量（适用于无用户刷新增加浏览量类型）
+	（pycurl、urllib、StringIO、json、re、certifi）
